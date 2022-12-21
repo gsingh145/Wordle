@@ -18,4 +18,4 @@ Instructions
 3)Enter a word library fileName. I included some examples, input.txt and input2.txt. These contain a list of possible words that the program can ask the user to solve
 
 
-View exampleOutput.PNG to see output
+View exampleOutput.PNG to see the programs expected output
